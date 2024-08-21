@@ -1,6 +1,0 @@
-// Config FoxyProxy and Certificate BurpSuit \\
---------------------------------------------------------
-Primero descargas El addon foxProxy, despues te vas a options luego a proxies |Tittle=BurpSuite |Type=HTTP |Hostname=127.0.0.1 |Port=8080 |Save
-Vas a tu navegador y colocas |127.0.0.1:8080 |click en CA Certificate |luego te vas a Settings de tu Firefox, en el buscador pones |cert |View Certificates
-|import eliges el cacert.der luego marcas la primera opcion, le das a aceptar
------------------------------------------------------------------------------
