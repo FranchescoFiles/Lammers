@@ -1,0 +1,14 @@
+Addon
+-------------------
+Wappalyzer
+temp-mail
+hacktools
+edit-cookie
+link-gopher
+findsomething
+dotgit
+open-multiple-urls
+uaswitcher
+retire-js
+shodan-addon
+---------------------
